@@ -1,0 +1,33 @@
+
+a [href="http://www.facebook.com"]{
+    color: antiquewhite;
+}
+h1 {
+    color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+    
+p {
+    text-align: center;
+    width: 300px;
+    background-color: blueviolet;
+    border: 5px solid darkblue;
+    margin: 20px;
+    display: block;
+}
+.search{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+}
+#buttons{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blue;
+}
+thead {
+    font-variant: small-caps;
+}
+body {
+    background-image: url(marble.jpg);
+
+}
