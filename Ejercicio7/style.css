@@ -15,12 +15,14 @@ p {
     border: 5px solid darkblue;
     margin: 20px;
     display: block;
+    color: blue;
 }
 .search{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: blue;
 }
 #buttons{
+
     font-family: 'Courier New', Courier, monospace;
     color: blue;
 }
